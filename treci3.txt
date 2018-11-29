@@ -1,0 +1,1 @@
+Added treci file for treca_grana. Want to merge it to druga_grana.
