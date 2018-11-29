@@ -1,4 +1,2 @@
 
 prvi tekst
-
-this text is supposed to be visible only on druga_grana
