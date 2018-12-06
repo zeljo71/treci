@@ -1,4 +1,3 @@
 Added treci file for treca_grana. Want to merge it to druga_grana.
 To make new change in treci3.txt
 Another change in treci3.
-doing revert
